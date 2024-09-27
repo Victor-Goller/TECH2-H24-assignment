@@ -32,4 +32,6 @@ def std_builtin(x):
     sd : float
         Standard deviation of the list of numbers.
     """
-    
+
+if __name__ == '__main__':
+    pass
